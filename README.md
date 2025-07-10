@@ -59,7 +59,7 @@ https://www.sbprojects.net/knowledge/footprints/eprom/eprom28.png
 
 Updated version:
 
-![EEPROM Pin Mapping](EEPROM pin mapping.png "EEPROM pin mapping")
+![EEPROM Pin Mapping](<EEPROM pin mapping.png>)
 
 ### Other files from other repos and places
 
